@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DucAnh911999
 - 👀 I’m interested in philosophy
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on embedded programming
+- 🌱 I’m an Autosar/Embedded software engineering
 - 📫 You can contact me via email ducanh.911999@gmail.com
 
 <!---
